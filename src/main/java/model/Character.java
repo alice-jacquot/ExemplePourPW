@@ -6,6 +6,7 @@ public class Character {
 	private int hpMax;
 	private int attack;
 	private double dodgePercent = 0.05;
+	private int a;
 
 	public Character() {
 	}
